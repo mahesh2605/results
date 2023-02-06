@@ -1,5 +1,5 @@
 print("exam results")
-marks = 33
+marks = 32
 if marks >= 35:
     print("you passed the exam")
 
